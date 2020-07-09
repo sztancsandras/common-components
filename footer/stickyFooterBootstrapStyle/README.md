@@ -1,0 +1,1 @@
+Sticky footer positioned like Bootstrap does

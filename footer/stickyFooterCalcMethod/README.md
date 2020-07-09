@@ -1,0 +1,1 @@
+Sticky footer positioned with 'calc' method in css
